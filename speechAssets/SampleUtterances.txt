@@ -1,31 +1,63 @@
-AssistantIntent what is {Person} extension number
 AssistantIntent what is {Person} extension
-AssistantIntent could you please tell me {Person} extension number
-AssistantIntent can you tell me {Person} extension number
-AssistantIntent could you tell me {Person} extension number
+AssistantIntent what is the extension number of {Person}
+AssistantIntent do you know {Person} extension number
 AssistantIntent could you please tell me {Person} extension
 AssistantIntent can you tell me {Person} extension
-AssistantIntent could you tell me {Person} extension
+AssistantIntent how do I get {Person} on extension
+AssistantIntent how to get {Person} on extension
 AssistantIntent please tell me {Person} extension number
-AssistantIntent please tell me {Person} extension
 AssistantIntent please look up {Person} extension number
-AssistantIntent please look up {Person} extension
-AssistantIntent find {Person} extension number
+AssistantIntent find the extension number of {Person}
 AssistantIntent find {Person} extension
 AssistantIntent get me {Person} extension number
 AssistantIntent get me {Person} extension
-AssistantIntent what is the extension number for {Person}
-AssistantIntent what is extension number for {Person}
-AssistantIntent what is extension for {Person}
-AssistantIntent what is the extension for {Person}
-AssistantIntent what is {Person} extension?
+AssistantIntent get {Person} on line on extension
+AssistantIntent I want to know {Person} phone extension number
+AssistantIntent please give me {Person} extension
+AssistantIntent please provide {Person} extension
+AssistantIntent please dial {Person} extension number
+AssistantIntent dial the extension number of {Person} 
+AssistantIntent I want to talk to {Person} on extension
+AssistantIntent I want to talk to {Person}
+AssistantIntent please call {Person} on extension
+AssistantIntent call {Person} on extension
+AssistantIntent call {Person} extension
+AssistantIntent I would like to call {Person} on extension
+AssistantIntent I want to call {Person} on extension
+AssistantIntent call the extension of {Person}
+AssistantIntent make a phone call on extension to {Person}
+AssistantIntent {Person} extension number please
+AssistantIntent check out {Person} office extension
+AssistantIntent contact {Person} via office extension
+AssistantIntent I want to contact {Person} on extension
+AssistantIntent get in touch with {Person} via office extension.
+AssistantIntent use office extension to call {Person}
 CellPhoneIntent get me {Person} cell phone number
 CellPhoneIntent what is {Person} cell phone number
-CellPhoneIntent could you tell me {Person} phone number
+CellPhoneIntent do you know {Person} cell phone number
+CellPhoneIntent could you tell me {Person} cell phone number
+CellPhoneIntent call {Person} cell phone
+CellPhoneIntent call {Person} on cell phone
+CellPhoneIntent get me {Person} on the cell phone
+CellPhoneIntent provide {Person} cell phone number
+CellPhoneIntent give me {Person} cell phone number
+CellPhoneIntent make a call to {Person} on cell phone
+CellPhoneIntent please look up {Person} cell phone number
+CellPhoneIntent {Person} cell phone number please
+CellPhoneIntent do you know {Person} cell phone number
+CellPhoneIntent check out {Person} cell phone number
+CellPhoneIntent contact {Person} via cell phone
+CellPhoneIntent get in touch with {Person} on the cell phone
+CellPhoneIntent dial the cell phone number of {Person}
+CellPhoneIntent find {Person} cell phone number
+CellPhoneIntent can you look up {Person} cell phone number
+CellPhoneIntent I want to know {Person} cell phone number
 StockIntent what is {Company} stock price today
+StockIntent what is the price of {Company} stock today
 StockIntent tell me {Company} stock price today
 StockIntent show me {Company} stock price today
 StockIntent identify {Company} stock price trend today
+StockIntent provide information of {Company} stock price today
 JokeNewYearIntent Happy Chinese New Year
 JokeSoftwareIntent who is the black sheep of Wistron Software PC
 JokeSingIntent sing a song for me

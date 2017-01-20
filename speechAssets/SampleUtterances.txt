@@ -1,0 +1,33 @@
+AssistantIntent what is {Person} extension number
+AssistantIntent what is {Person} extension
+AssistantIntent could you please tell me {Person} extension number
+AssistantIntent can you tell me {Person} extension number
+AssistantIntent could you tell me {Person} extension number
+AssistantIntent could you please tell me {Person} extension
+AssistantIntent can you tell me {Person} extension
+AssistantIntent could you tell me {Person} extension
+AssistantIntent please tell me {Person} extension number
+AssistantIntent please tell me {Person} extension
+AssistantIntent please look up {Person} extension number
+AssistantIntent please look up {Person} extension
+AssistantIntent find {Person} extension number
+AssistantIntent find {Person} extension
+AssistantIntent get me {Person} extension number
+AssistantIntent get me {Person} extension
+AssistantIntent what is the extension number for {Person}
+AssistantIntent what is extension number for {Person}
+AssistantIntent what is extension for {Person}
+AssistantIntent what is the extension for {Person}
+AssistantIntent what is {Person} extension?
+CellPhoneIntent get me {Person} cell phone number
+CellPhoneIntent what is {Person} cell phone number
+CellPhoneIntent could you tell me {Person} phone number
+StockIntent what is {Company} stock price today
+StockIntent tell me {Company} stock price today
+StockIntent show me {Company} stock price today
+StockIntent identify {Company} stock price trend today
+JokeNewYearIntent Happy Chinese New Year
+JokeSoftwareIntent who is the black sheep of Wistron Software PC
+JokeSingIntent sing a song for me
+JokeCoffeeIntent coffee please
+JokeAlphaIntent who is the alpha of all A.I.

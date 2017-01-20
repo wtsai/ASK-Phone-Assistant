@@ -1,0 +1,55 @@
+{
+  "intents": [
+    {
+      "intent": "AssistantIntent",
+      "slots": [
+      {
+        "name" : "Person",
+        "type": "LIST_OF_NAMES"
+      }
+     ]
+    },
+    {
+      "intent": "CellPhoneIntent",
+      "slots": [
+      {
+        "name" : "Person",
+        "type": "LIST_OF_NAMES"
+      }
+     ]
+    },
+    {
+      "intent": "StockIntent",
+      "slots": [
+      {
+        "name" : "Company",
+        "type": "LIST_OF_COMPANIES"
+      }
+     ]
+    },
+    {
+      "intent": "JokeNewYearIntent"
+    },
+    {
+      "intent": "JokeSoftwareIntent"
+    },
+    {
+      "intent": "JokeSingIntent"
+    },
+    {
+      "intent": "JokeCoffeeIntent"
+    },
+    {
+      "intent": "JokeAlphaIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
